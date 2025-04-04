@@ -1,0 +1,6 @@
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net6.0\Dal.sourcelink.json
