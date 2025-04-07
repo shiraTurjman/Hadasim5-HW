@@ -32,7 +32,8 @@ namespace Bll.Services
 
         public async Task<List<OrderEntity>> GetAllOrderAsync()
         {
-            return await _orderRepository.GetAllOrderAsync();   
+           return await _orderRepository.GetAllOrderAsync();
+            
         }
 
         public async Task<List<OrderEntity>> GetOrderByStatusAsync(int statusId)
@@ -45,9 +46,9 @@ namespace Bll.Services
             return await _orderRepository.GetOrderBySupplierAsync(supplierId);
         }
 
-        public async Task UpdateOrderAsync(OrderEntity order)
+        public async Task UpdateOrderAsync(int id,int statusId)
         {
-            await _orderRepository.UpdateOrderAsync(order);
+            await _orderRepository.UpdateOrderAsync(id,statusId);
         }
     }
 }

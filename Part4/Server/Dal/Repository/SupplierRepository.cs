@@ -18,7 +18,7 @@ namespace Dal.Repository
             _factory = factory;
         }
 
-        public async Task AddSupplierAsync(SupplierEntity supplier)
+        public async Task<int> AddSupplierAsync(SupplierEntity supplier)
         {
             
             if (supplier == null || string.IsNullOrEmpty(supplier.Phone))
@@ -37,6 +37,7 @@ namespace Dal.Repository
 
             await context.Suppliers.AddAsync(supplier);
             await context.SaveChangesAsync();
+            return supplier.Id;
 
         }
 

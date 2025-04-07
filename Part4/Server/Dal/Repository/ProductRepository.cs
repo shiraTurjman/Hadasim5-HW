@@ -32,7 +32,7 @@ namespace Dal.Repository
        public async Task<List<ProductEntity>> GetAllProductAsync()
         {
             using var context = _factory.CreateDbContext();
-            var list =await context.Products.ToListAsync();
+            var list =await context.Products.Include(o => o.Supplier).ToListAsync();
             if (list != null)
             {
                 return list;
@@ -46,7 +46,7 @@ namespace Dal.Repository
         public async Task<List<ProductEntity>> GetProductBySupplierAsync(int supplierId)
         {
             using var context = _factory.CreateDbContext();
-            var list = await context.Products.Where(p => p.SupplierId == supplierId).ToListAsync();
+            var list = await context.Products.Where(p => p.SupplierId == supplierId).Include(o => o.Supplier).ToListAsync();
             if (list != null)
             {
                 return list;

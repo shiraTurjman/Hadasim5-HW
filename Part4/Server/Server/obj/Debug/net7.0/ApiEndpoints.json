@@ -100,14 +100,19 @@
   {
     "ContainingType": "WebApi.Controllers.OrderController",
     "Method": "UpdateOrder",
-    "RelativePath": "api/Order/UpdateOrder",
+    "RelativePath": "api/Order/UpdateOrder/{id}/{statusId}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "order",
-        "Type": "Dal.Entity.OrderEntity",
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

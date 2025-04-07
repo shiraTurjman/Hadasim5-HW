@@ -73,12 +73,12 @@ namespace WebApi.Controllers
         }
 
 
-        [HttpPut("UpdateOrder")]
-        public async Task<ActionResult> UpdateOrder([FromBody] OrderEntity order)
+        [HttpPut("UpdateOrder/{id}/{statusId}")]
+        public async Task<ActionResult> UpdateOrder(int id,int statusId)
         {
             try
             {
-                await _orderService.UpdateOrderAsync(order);
+                await _orderService.UpdateOrderAsync(id,statusId);
                 return Ok(true);
             }
             catch (Exception ex)

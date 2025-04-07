@@ -29,8 +29,8 @@ namespace WebApi.Controllers
 
                 Console.WriteLine($"Adding supplier: {supplier.Phone}");
 
-                await _supplierService.AddSupplierAsync(supplier);
-                return Ok(true);
+                int id = await _supplierService.AddSupplierAsync(supplier);
+                return Ok(id);
             }
             catch (Exception ex) {
                 Console.WriteLine($"Error in AddSupplier: {ex.Message}");

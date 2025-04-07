@@ -10,7 +10,7 @@ namespace Dal.Interfaces
     public interface IOrderRepository
     {
         Task AddOrderAsync(OrderEntity order);
-        Task UpdateOrderAsync(OrderEntity order);
+        Task UpdateOrderAsync(int id,int statusId);
         
         Task<List<OrderEntity>> GetAllOrderAsync();
         Task<List<OrderEntity>> GetOrderByStatusAsync(int statusId);

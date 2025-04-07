@@ -53,6 +53,8 @@ WITH FamilyData AS (
 )
 SELECT Ρerson_Id, Relative_Id, Connection_Type INTO FamilyTree FROM FamilyData GROUP BY Ρerson_Id, Relative_Id, Connection_Type;
 
+IF OBJECT_ID('dbo.FamilyTree', 'U') IS NULL
+
 SELECT * FROM FamilyTree
 
 

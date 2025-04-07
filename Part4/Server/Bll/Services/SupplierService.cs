@@ -15,13 +15,15 @@ namespace Bll.Services
     {
         private readonly ISupplierRepository _supplierRepository;
         private readonly IOrderRepository _orderRepository;
-        public SupplierService(ISupplierRepository supplierRepository, IOrderRepository orderRepository)
+        private readonly IProductService _productService;
+        public SupplierService(ISupplierRepository supplierRepository, IOrderRepository orderRepository, IProductService productService)
         {
             _supplierRepository = supplierRepository;
             _orderRepository = orderRepository;
+            _productService = productService;
         }
 
-        public async Task AddSupplierAsync(SupplierToAddDto supplier)
+        public async Task<int> AddSupplierAsync(SupplierToAddDto supplier)
         {
             try
             {
@@ -31,7 +33,12 @@ namespace Bll.Services
                     Phone = supplier.Phone,
                     Agent = supplier.Agent
                 };
-                await _supplierRepository.AddSupplierAsync(supplerToAdd);
+               int id = await _supplierRepository.AddSupplierAsync(supplerToAdd);
+                foreach (var product in supplier.Product) { 
+                  await _productService.AddProductAsync(product,id);
+                }
+                return id;
+
             }
             catch (Exception ex)
             {
@@ -53,14 +60,15 @@ namespace Bll.Services
             if (await _supplierRepository.CheckPhoneExistsAsync(phone))
             {
                 var supplier = await _supplierRepository.GetSupplierByPhoneAsync(phone);
-                var orders = await _orderRepository.GetOrderBySupplierAsync(supplier.Id);
+                
+                
                 var supplerDto = new SupplierDto
                 {
                     Id = supplier.Id,
                     Name = supplier.Name,
                     Agent = supplier.Agent,
                     Phone = phone,
-                    //Orders = orders
+                    //Orders = await _orderRepository.GetOrderBySupplierAsync(supplier.Id)
                 };
                 return supplerDto;
 

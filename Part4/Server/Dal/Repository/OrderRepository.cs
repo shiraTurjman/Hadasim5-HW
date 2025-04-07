@@ -1,5 +1,6 @@
 ﻿using Dal.Entity;
 using Dal.Interfaces;
+using Dto;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -27,13 +28,17 @@ namespace Dal.Repository
          public async Task<List<OrderEntity>> GetAllOrderAsync()
          {
             using var context=_factory.CreateDbContext();
-            return await context.Orders.ToListAsync();
+            return await context.Orders.Include(o => o.Product).Include(o => o.Status).ToListAsync();
          }
 
          public async Task<List<OrderEntity>> GetOrderBySupplierAsync(int supplierId)
         {
            using var context= _factory.CreateDbContext();
-            List<OrderEntity> orders = await context.Orders.Where(o => o.Product.SupplierId == supplierId).ToListAsync();
+            var productIds = await context.Products.Where(p=>p.SupplierId == supplierId).Select(p => p.Id).ToListAsync();
+          
+            List<OrderEntity> orders = await context.Orders.Where(o => productIds.Contains(o.ProductId))
+                .Include(o => o.Product).Include(o => o.Status).ToListAsync();
+            
             if (orders != null)
             {
                 return orders;
@@ -48,7 +53,7 @@ namespace Dal.Repository
         public async Task<List<OrderEntity>> GetOrderByStatusAsync(int statusId)
         {
             using var dbContext = _factory.CreateDbContext();
-            List<OrderEntity> order = await dbContext.Orders.Where(o => o.StatusId == statusId).ToListAsync();
+            List<OrderEntity> order = await dbContext.Orders.Where(o => o.StatusId == statusId).Include(o => o.Product).Include(o => o.Status).ToListAsync();
             if (order != null)
             {
                 return order;
@@ -60,13 +65,13 @@ namespace Dal.Repository
 
         }
 
-       public async Task UpdateOrderAsync(OrderEntity order)
+       public async Task UpdateOrderAsync(int id,int statusId)
         {
             using var dbContext = _factory.CreateDbContext();
-            var orderToUpdate = dbContext.Orders.FirstOrDefault(i => i.Id == order.Id);
+            var orderToUpdate = dbContext.Orders.FirstOrDefault(i => i.Id == id);
             if (orderToUpdate != null)
             {
-                orderToUpdate.Status = order.Status;
+                orderToUpdate.StatusId = statusId;
                 await dbContext.SaveChangesAsync();
 
             }

@@ -11,7 +11,7 @@ namespace Bll.Interfaces
 {
     public interface ISupplierService
     {
-        Task AddSupplierAsync(SupplierToAddDto supplier);
+        Task<int> AddSupplierAsync(SupplierToAddDto supplier);
        
         Task<SupplierEntity> GetSupplierByIdAsync(int id);
 

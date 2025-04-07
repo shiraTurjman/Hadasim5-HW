@@ -10,7 +10,7 @@ namespace Dal.Interfaces
 {
     public interface ISupplierRepository
     {
-        Task AddSupplierAsync(SupplierEntity supplier);
+        Task<int> AddSupplierAsync(SupplierEntity supplier);
        
 
         Task<SupplierEntity> GetSupplierByIdAsync(int SupplierId);

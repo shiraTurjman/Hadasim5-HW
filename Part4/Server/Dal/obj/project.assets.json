@@ -4030,11 +4030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\ServerDuby\\Dal\\Dal.csproj",
+      "projectUniqueName": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\Server\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\ServerDuby\\Dal\\Dal.csproj",
+      "projectPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\Server\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\s0527\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\ServerDuby\\Dal\\obj\\",
+      "outputPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\Server\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4055,8 +4055,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\ServerDuby\\Dto\\Dto.csproj": {
-              "projectPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\ServerDuby\\Dto\\Dto.csproj"
+            "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\Server\\Dto\\Dto.csproj": {
+              "projectPath": "C:\\Users\\s0527\\Desktop\\הדסים\\Hadasim5-HW\\Part4\\Server\\Dto\\Dto.csproj"
             }
           }
         }

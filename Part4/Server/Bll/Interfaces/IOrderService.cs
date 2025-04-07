@@ -11,7 +11,7 @@ namespace Bll.Interfaces
     public interface IOrderService
     {
         Task AddOrderAsync(OrderToAddDto order);
-        Task UpdateOrderAsync(OrderEntity order);
+        Task UpdateOrderAsync(int id,int statusIs);
 
         Task<List<OrderEntity>> GetAllOrderAsync();
         Task<List<OrderEntity>> GetOrderByStatusAsync(int statusId);
