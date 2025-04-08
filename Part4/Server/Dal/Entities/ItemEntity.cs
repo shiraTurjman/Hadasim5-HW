@@ -17,6 +17,9 @@ namespace Dal.Entities
         public string Name { get; set; }
 
         [Required]
-        public string MinimumAmount { get; set; }
+        public int Amount { get; set; }
+
+        [Required]
+        public int MinimumAmount { get; set; }
     }
 }

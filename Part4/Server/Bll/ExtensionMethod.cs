@@ -28,6 +28,7 @@ namespace Bll
             service.AddScoped<IOrderRepository, OrderRepository>();
             
             service.AddScoped<ISupplierRepository, SupplierRepository>();
+            service.AddScoped<IItemRepository, ItemRepository>();
 
             //service-bll
             
@@ -38,6 +39,7 @@ namespace Bll
             service.AddScoped<IOrderService, OrderService>();
             
             service.AddScoped<ISupplierService, SupplierService>();
+            service.AddScoped<IItemService, ItemService>();
 
 
         }

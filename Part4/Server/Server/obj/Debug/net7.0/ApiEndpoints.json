@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "Api.Controllers.ItemController",
+    "Method": "AddItem",
+    "RelativePath": "api/Item/AddItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "Dal.Entities.ItemEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.ItemController",
+    "Method": "OnReceiptReceived",
+    "RelativePath": "api/Item/OnReceiptReceived",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Text.Json.JsonElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.OrderController",
     "Method": "AddOrder",
     "RelativePath": "api/Order/AddOrder",

@@ -3,6 +3,102 @@
   "WorkspaceRootPath": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\server\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|solutionrelative:server\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|solutionrelative:server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\ordertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\ordertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\server\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|Server\\Api.csproj|solutionrelative:server\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,64 +114,16 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Controllers\\SupplierController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\supplierentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\supplierentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\suppliertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,10 +138,6 @@
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\bll\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -102,20 +146,8 @@
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\ordertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\ordertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,10 +160,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hadasim5-hw\\part4\\server\\dal\\migrations\\20250404090851_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,11 +191,323 @@
       "DocumentGroups": [
         {
           "DockedWidth": 177,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Server\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:56:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\OrderService.cs",
+              "RelativeToolTip": "Bll\\Services\\OrderService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T10:19:37.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\ISupplierService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ISupplierService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:25:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:41:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:16:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Bll\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\ExtensionMethod.cs",
+              "RelativeToolTip": "Bll\\ExtensionMethod.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T10:26:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\ItemService.cs",
+              "RelativeToolTip": "Bll\\Services\\ItemService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:35:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:25:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:41:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:34:03.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderToAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderToAddDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderToAddDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderToAddDto.cs",
+              "RelativeToolTip": "Dto\\OrderToAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:38:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "Dto\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:58:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:41:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T10:23:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ItemEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ItemEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ItemEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\ItemEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:32:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:32:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250408131259_updateItemMinimumAmount.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250408131259_updateItemMinimumAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:12:59.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T11:56:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\ItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:18:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IStatusService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IStatusService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IStatusService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T12:04:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\SupplierRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:01:54.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\StatusRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\StatusRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\StatusRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:25:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IStatusRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IStatusRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IStatusRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:17:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\SupplierController.cs",
@@ -180,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Server\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\ProductController.cs",
@@ -192,67 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SupplierRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\SupplierRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\SupplierRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\SupplierRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\SupplierRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:01:54.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:42.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:25:15.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IStatusService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IStatusService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\IStatusService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IStatusService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\IStatusService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T12:04:21.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISupplierService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\ISupplierService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISupplierService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\ISupplierService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\ISupplierService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:25:35.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "SupplierService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\SupplierService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\SupplierService.cs",
@@ -264,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 27,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\Controllers\\SupplierController.cs",
@@ -275,19 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:34.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\Controllers\\OrderController.cs",
@@ -299,55 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StatusRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\StatusRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\StatusRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\StatusRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\StatusRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:25:01.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\OrderService.cs",
-              "RelativeToolTip": "Bll\\Services\\OrderService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T10:19:37.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADAAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:32:50.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\OrderEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\OrderEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\OrderEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\OrderEntity.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T11:56:22.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "SupplierEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\SupplierEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\SupplierEntity.cs",
@@ -359,19 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ProductEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\ProductEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ProductEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\ProductEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T10:23:38.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "SupplierDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\SupplierDto.cs",
               "RelativeDocumentMoniker": "Dto\\SupplierDto.cs",
@@ -383,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "ISupplierRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\ISupplierRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Interfaces\\ISupplierRepository.cs",
@@ -395,19 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Dto\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderDto.cs",
-              "RelativeToolTip": "Dto\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:58:57.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "SupplierToAddDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\SupplierToAddDto.cs",
               "RelativeDocumentMoniker": "Dto\\SupplierToAddDto.cs",
@@ -419,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\ProductService.cs",
@@ -431,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "StatusService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Services\\StatusService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\StatusService.cs",
@@ -443,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\appsettings.json",
@@ -455,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "StatusController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Controllers\\StatusController.cs",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\Controllers\\StatusController.cs",
@@ -467,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "DesignTimeDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\DesignTimeDbContextFactory.cs",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\DesignTimeDbContextFactory.cs",
@@ -479,19 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ExtensionMethod.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\ExtensionMethod.cs",
-              "RelativeDocumentMoniker": "Bll\\ExtensionMethod.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\ExtensionMethod.cs",
-              "RelativeToolTip": "Bll\\ExtensionMethod.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T10:26:07.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Program.cs",
               "RelativeDocumentMoniker": "Bll\\Program.cs",
@@ -503,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "20250404090851_InitDB.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Migrations\\20250404090851_InitDB.cs",
               "RelativeDocumentMoniker": "Dal\\Migrations\\20250404090851_InitDB.cs",
@@ -515,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "Api.csproj",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Api.csproj",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\Api.csproj",
@@ -527,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "ServerDbContext.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ServerDbContext.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\ServerDbContext.cs",
@@ -539,31 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IStatusRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IStatusRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IStatusRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IStatusRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IStatusRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:17:15.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:04.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\ServerDuby\\ServerDuby\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\ServerDuby\\ServerDuby\\Controllers\\ProductController.cs",
@@ -575,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "StatusEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\StatusEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\StatusEntity.cs",
@@ -587,19 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrderToAddDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderToAddDto.cs",
-              "RelativeDocumentMoniker": "Dto\\OrderToAddDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\OrderToAddDto.cs",
-              "RelativeToolTip": "Dto\\OrderToAddDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:38:11.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
@@ -611,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Bll\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Bll\\Interfaces\\IProductService.cs",
@@ -623,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
@@ -632,18 +780,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-21T11:11:55.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ItemEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ItemEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\ItemEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Hadasim5-HW\\Part4\\Server\\Dal\\Entities\\ItemEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\ItemEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:32:04.609Z"
             }
           ]
         }

@@ -30,9 +30,11 @@ namespace Dal.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("MinimumAmount")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MinimumAmount")
+                        .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .IsRequired()

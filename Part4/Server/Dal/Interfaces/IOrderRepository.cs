@@ -17,6 +17,6 @@ namespace Dal.Interfaces
 
         Task<List<OrderEntity>> GetOrderBySupplierAsync(int supplierId);
 
-        
+        Task<OrderEntity> GetOrderByIdAsync(int id);
     }
 }

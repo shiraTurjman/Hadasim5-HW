@@ -31,7 +31,13 @@ namespace Dal.Repository
             return await context.Orders.Include(o => o.Product).Include(o => o.Status).ToListAsync();
          }
 
-         public async Task<List<OrderEntity>> GetOrderBySupplierAsync(int supplierId)
+        public async Task<OrderEntity> GetOrderByIdAsync(int id)
+        {
+            using var context = _factory.CreateDbContext();
+            return await context.Orders.Include(o => o.Product).FirstAsync(o => o.Id == id);
+        }
+
+        public async Task<List<OrderEntity>> GetOrderBySupplierAsync(int supplierId)
         {
            using var context= _factory.CreateDbContext();
             var productIds = await context.Products.Where(p=>p.SupplierId == supplierId).Select(p => p.Id).ToListAsync();
@@ -73,7 +79,7 @@ namespace Dal.Repository
             {
                 orderToUpdate.StatusId = statusId;
                 await dbContext.SaveChangesAsync();
-
+                
             }
             else { throw new Exception("could not update order , order not found"); }
         }

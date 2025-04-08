@@ -14,7 +14,7 @@ namespace Dal.Repository
     {
         private readonly IDbContextFactory<ServerDbContext> _factory;
 
-        public ProductRepository (IDbContextFactory<ServerDbContext> factory)
+        public ProductRepository(IDbContextFactory<ServerDbContext> factory)
         {
             _factory = factory;
         }
@@ -24,15 +24,15 @@ namespace Dal.Repository
             using var context = _factory.CreateDbContext();
             context.Products.Add(product);
             await context.SaveChangesAsync();
-            
+
         }
 
-       
 
-       public async Task<List<ProductEntity>> GetAllProductAsync()
+
+        public async Task<List<ProductEntity>> GetAllProductAsync()
         {
             using var context = _factory.CreateDbContext();
-            var list =await context.Products.Include(o => o.Supplier).ToListAsync();
+            var list = await context.Products.Include(o => o.Supplier).ToListAsync();
             if (list != null)
             {
                 return list;
@@ -55,6 +55,16 @@ namespace Dal.Repository
             {
                 throw new Exception("could not get Product by supplier");
             }
+        }
+
+        public async Task<ProductEntity> GetCheapestProduct(string name)
+        {
+            using var context = _factory.CreateDbContext();
+            var product = context.Products.Where(p => p.Name == name)
+                                      .OrderBy(p => p.Price)  // ממיינים לפי מחיר
+                                      .FirstOrDefault();
+            return product;
+
         }
 
         // public async Task<ProductEntity> GetItemByItemIdAsync(int itemId)

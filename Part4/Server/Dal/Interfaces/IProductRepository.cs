@@ -14,6 +14,7 @@ namespace Dal.Interfaces
     
         Task<List<ProductEntity>> GetAllProductAsync();
         Task<List<ProductEntity>> GetProductBySupplierAsync(int supplierId);
+        Task<ProductEntity> GetCheapestProduct(string name);
         //Task<ProductEntity> GetProductByProductIdAsync(int productId);
 
     }
